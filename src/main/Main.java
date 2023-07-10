@@ -28,6 +28,7 @@ public class Main {
 
 
     public static void feetConversions(DecimalFormat df, Scanner keyboard, Conversions conversions) {
+        System.out.println("test");
     }
 
     private static void inchConversions(DecimalFormat df, Scanner keyboard, Conversions conversions) {
